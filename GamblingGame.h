@@ -3,7 +3,6 @@ using namespace std;
 
 class gamblinggame {
 	int rnum[3];
-	bool game = true;
 
 	public:
 		gamblinggame();
